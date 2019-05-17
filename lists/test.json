@@ -15,7 +15,7 @@
           
           "title": {
             "text": "Test Item",
-            "translations": {},
+            "translations": {}
           },
           
           "when": 581032800,
@@ -25,12 +25,12 @@
 
           "url": {
             "text": "https://www.aveapps.com",
-            "translations": {},
+            "translations": {}
           },
           
           "notes": {
             "text": "some notes here",
-            "translations": {},
+            "translations": {}
           },
 
           "location": {
