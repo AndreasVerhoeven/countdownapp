@@ -2,7 +2,7 @@
   "uuid": "4c7f0812-0b86-428d-9235-d30fa140c340",
   "title": "Test Feed",
   "author": "Andreas",
-  "wantedRefreshInterval: 3600,
+  "wantedRefreshInterval": 3600,
   "items": [
         {
           "uuid": "d74f19d5-99c5-4baf-8316-5b20b50003af",
