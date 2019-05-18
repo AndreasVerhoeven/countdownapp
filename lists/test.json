@@ -10,16 +10,16 @@
           "kind": "normal",
 
           "modificationUuid": "ffd0f43f-cd59-4c53-90b6-e61851d5d00a",
-          "creationDate": 579432948,
-          "modificationDate": 579432948,
+          "creationDate": 580003200,
+          "modificationDate": 580003200,
           
           "title": {
             "text": "Test Item",
             "translations": {}
           },
           
-          "when": 581032800,
-          "endDate":  581052800,
+          "when": 580003200,
+          "endDate":  580003200,
           "timezoneIdentifier": "Europe\/Amsterdam",
           "isAllDay": true,
 
