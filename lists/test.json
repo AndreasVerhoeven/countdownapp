@@ -55,6 +55,58 @@
           "imageStyle": "template",
           "lightTintColorColorHex": "#000000",
           "darkTintColorHex": "#FFFFFF"
+        },
+        {
+          "uuid": "08e6b0ac-8c87-4e01-add8-5258f72b7594",
+          "status": "normal",
+          "kind": "normal",
+
+          "modificationUuid": "764aaa7c-0bd3-49c3-be74-9d0ae2244e69",
+          "creationDate": 580403200,
+          "modificationDate": 580403200,
+          
+          "title": {
+            "text": "Item 2",
+            "translations": {}
+          },
+          
+          "when": 580403200,
+          "endDate":  580403200,
+          "timezoneIdentifier": "Europe\/Amsterdam",
+          "isAllDay": true,
+
+          "url": {
+            "text": "https://www.aveapps.com",
+            "translations": {}
+          },
+          
+          "notes": {
+            "text": "some notes here",
+            "translations": {}
+          },
+
+          "location": {
+            "name": {
+              "text": "Bakı Olimpiya Stadionu",
+              "translations": {}
+            },
+            "latitude": 40.429888796904713,
+            "longitude":49.91961658000946,
+            "postalAddress": {
+              "street": "",
+              "subLocality": "",
+              "country": "Azərbaycan",
+              "postalCode": "",
+              "city": "Baku",
+              "subAdministrativeArea": "",
+              "state": "Azərbaycan",
+              "isoCountryCode": "AZ"
+            }
+          },
+          "imageName": "championslogo.png",
+          "imageStyle": "template",
+          "lightTintColorColorHex": "#000000",
+          "darkTintColorHex": "#FFFFFF"
         }
   ]
 }
